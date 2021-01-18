@@ -1,0 +1,1 @@
+Simply go to the "files" folder and open "Project.ipynb" file. All the remaining instructions are given there.
